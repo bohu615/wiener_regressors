@@ -4,7 +4,7 @@ Codes include:
 
 * Type-II E-QMI 
 * MCA 
-* MSE/BP (BASELINES)
+* MSE/BP (BASELINE)
 
 To run experiments:
 ```shell
